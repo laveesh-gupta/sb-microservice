@@ -1,0 +1,4 @@
+com\springboot\microservice\example\currencyconversion\CurrencyConversionController.class
+com\springboot\microservice\example\currencyconversion\SpringBootMicroserviceCurrencyConversionApplication.class
+com\springboot\microservice\example\currencyconversion\CurrencyExchangeServiceProxy.class
+com\springboot\microservice\example\currencyconversion\CurrencyConversionBean.class
