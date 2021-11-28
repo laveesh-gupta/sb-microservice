@@ -1,4 +1,4 @@
-C:\Users\GuptaMus\Desktop\spring-boot-examples\spring-boot-basic-microservice\spring-boot-microservice-forex-service\src\main\java\com\in28minutes\springboot\microservice\example\forex\ExchangeValueRepository.java
-C:\Users\GuptaMus\Desktop\spring-boot-examples\spring-boot-basic-microservice\spring-boot-microservice-forex-service\src\main\java\com\in28minutes\springboot\microservice\example\forex\ExchangeValue.java
-C:\Users\GuptaMus\Desktop\spring-boot-examples\spring-boot-basic-microservice\spring-boot-microservice-forex-service\src\main\java\com\in28minutes\springboot\microservice\example\forex\SpringBootMicroserviceForexServiceApplication.java
-C:\Users\GuptaMus\Desktop\spring-boot-examples\spring-boot-basic-microservice\spring-boot-microservice-forex-service\src\main\java\com\in28minutes\springboot\microservice\example\forex\ForexController.java
+/home/lg5/sb-microservice/spring-boot-microservice-forex-service/src/main/java/com/springboot/microservice/example/forex/ExchangeValue.java
+/home/lg5/sb-microservice/spring-boot-microservice-forex-service/src/main/java/com/springboot/microservice/example/forex/SpringBootMicroserviceForexServiceApplication.java
+/home/lg5/sb-microservice/spring-boot-microservice-forex-service/src/main/java/com/springboot/microservice/example/forex/ExchangeValueRepository.java
+/home/lg5/sb-microservice/spring-boot-microservice-forex-service/src/main/java/com/springboot/microservice/example/forex/ForexController.java

@@ -1,4 +1,4 @@
-C:\Users\GuptaMus\Desktop\spring-boot-examples\spring-boot-basic-microservice\spring-boot-microservice-currency-conversion-service\src\main\java\com\in28minutes\springboot\microservice\example\currencyconversion\SpringBootMicroserviceCurrencyConversionApplication.java
-C:\Users\GuptaMus\Desktop\spring-boot-examples\spring-boot-basic-microservice\spring-boot-microservice-currency-conversion-service\src\main\java\com\in28minutes\springboot\microservice\example\currencyconversion\CurrencyConversionController.java
-C:\Users\GuptaMus\Desktop\spring-boot-examples\spring-boot-basic-microservice\spring-boot-microservice-currency-conversion-service\src\main\java\com\in28minutes\springboot\microservice\example\currencyconversion\CurrencyExchangeServiceProxy.java
-C:\Users\GuptaMus\Desktop\spring-boot-examples\spring-boot-basic-microservice\spring-boot-microservice-currency-conversion-service\src\main\java\com\in28minutes\springboot\microservice\example\currencyconversion\CurrencyConversionBean.java
+/home/lg5/sb-microservice/spring-boot-microservice-currency-conversion-service/src/main/java/com/springboot/microservice/example/currencyconversion/CurrencyExchangeServiceProxy.java
+/home/lg5/sb-microservice/spring-boot-microservice-currency-conversion-service/src/main/java/com/springboot/microservice/example/currencyconversion/CurrencyConversionController.java
+/home/lg5/sb-microservice/spring-boot-microservice-currency-conversion-service/src/main/java/com/springboot/microservice/example/currencyconversion/SpringBootMicroserviceCurrencyConversionApplication.java
+/home/lg5/sb-microservice/spring-boot-microservice-currency-conversion-service/src/main/java/com/springboot/microservice/example/currencyconversion/CurrencyConversionBean.java
